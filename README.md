@@ -2,6 +2,8 @@
 
 This Dockerfile is designed to create a Docker image based on Amazon Linux, configured with Node.js, Yarn, and the AWS Amplify CLI. This image is intended for use in AWS Amplify to build and deploy projects. Below are the details and instructions for using this Dockerfile:
 
+Or you can use this image from dockerhub: https://hub.docker.com/r/gusserres/amplify-build-image - docker pull gusserres/amplify-build-image:latest
+
 ## Prerequisites
 
 Before using this Dockerfile, make sure you have the following prerequisites:
